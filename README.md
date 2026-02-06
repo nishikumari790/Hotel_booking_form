@@ -30,15 +30,17 @@ This project allows users to enter booking details and get a confirmation messag
 ---
 
 ## 📂 Project Structure
-hotel-booking/
-|
- ├── index.html
- ├── style.css
- └── script.js
+
+Hotel_booking_form/
+│
+├── index.html
+├── style.css
+└── script.js
+
 
 ---
 
-## Challenges Faced
+## 🧩 Challenges Faced
 
 * Understanding how to connect HTML, CSS, and JavaScript together in one project.
 
@@ -50,9 +52,7 @@ hotel-booking/
 
   ---
 
-## Course Outcomes
-
-Gained a clear understanding of basic web development using HTML, CSS, and JavaScript.
+## 🎯 Course Outcomes
 
 * Learned how to create and style forms with a professional UI.
 
@@ -65,6 +65,7 @@ Gained a clear understanding of basic web development using HTML, CSS, and JavaS
   ---
   
 Fill the form and click Book Now.
+
 
 
 
