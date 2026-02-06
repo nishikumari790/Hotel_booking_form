@@ -1,37 +1,36 @@
-🏨 Hotel Booking Form (HTML, CSS & JavaScript)
+##  📌 🏨 Hotel Booking Form (HTML, CSS & JavaScript)
 
 A simple and responsive Hotel Booking Form created using HTML, CSS, and JavaScript.
 This project allows users to enter booking details and get a confirmation message instantly.
+ --
+## 🚀 Features
 
-🚀 Features
+* User-friendly booking form
 
-User-friendly booking form
+* Input validation using HTML & JavaScript
 
-Input validation using HTML & JavaScript
+* Clean and responsive UI
 
-Clean and responsive UI
+* Instant booking confirmation message
 
-Instant booking confirmation message
+* Pure frontend (no backend required)
+  
+  --
 
-Pure frontend (no backend required)
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
+* HTML5 – Structure
 
-HTML5 – Structure
+* CSS3 – Styling
 
-CSS3 – Styling
+* JavaScript – Form handling & logic
 
-JavaScript – Form handling & logic
-
-📂 Project Structure
+## 📂 Project Structure
 hotel-booking/
 │
 ├── index.html
 ├── style.css
 └── script.js
 
-
-OR
-Right-click → Open with Browser.
-
 Fill the form and click Book Now.
+
