@@ -22,3 +22,16 @@ HTML5 – Structure
 CSS3 – Styling
 
 JavaScript – Form handling & logic
+
+📂 Project Structure
+hotel-booking/
+│
+├── index.html
+├── style.css
+└── script.js
+
+
+OR
+Right-click → Open with Browser.
+
+Fill the form and click Book Now.
