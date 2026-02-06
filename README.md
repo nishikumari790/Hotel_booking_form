@@ -31,13 +31,14 @@ This project allows users to enter booking details and get a confirmation messag
 
 ## 📂 Project Structure
 
+ ```
 Hotel_booking_form/
-│
+|
 ├── index.html
 ├── style.css
 └── script.js
 
-
+```
 ---
 
 ## 🧩 Challenges Faced
@@ -65,6 +66,7 @@ Hotel_booking_form/
   ---
   
 Fill the form and click Book Now.
+
 
 
 
